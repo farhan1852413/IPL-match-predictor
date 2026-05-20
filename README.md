@@ -7,7 +7,11 @@
 ![Flask](https://img.shields.io/badge/Flask-2.x-black?style=for-the-badge&logo=flask)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange?style=for-the-badge&logo=scikit-learn)
 
+
 A full-stack, machine-learning-powered web application built as an engineering project. This platform leverages historical ball-by-ball IPL dataset (246,000+ deliveries) to provide rich data analytics, pre-match winner predictions, and an interactive live run-chase simulator.
+
+A full-stack, machine-learning-powered web application built as a final-year engineering project. This platform leverages historical ball-by-ball IPL dataset (246,000+ deliveries) to provide rich data analytics, pre-match winner predictions, and an interactive live run-chase simulator.
+
 
 ## ✨ Key Features
 
@@ -88,4 +92,8 @@ The application implements a clean, decoupled Three-Tier Architecture:
 
 ## 👨‍💻 Author
 
+<<<<<<< HEAD
 Developed as a Final Year Engineering Project.
+=======
+Developed as a Final Year Engineering Project.
+>>>>>>> fdcbb83676e98a8c6dfa4dd3c2ff12f90d746b34
